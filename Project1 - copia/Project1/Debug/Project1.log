@@ -1,0 +1,4 @@
+﻿  atomo.cpp
+c:\users\arela\downloads\atomo.cpp(44): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Project1.vcxproj -> C:\Users\Arela\Desktop\Project1 - copia\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Arela\Desktop\Project1 - copia\Debug\Project1.pdb (Partial PDB)
