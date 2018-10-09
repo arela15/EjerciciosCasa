@@ -1,0 +1,15 @@
+﻿  main_tarea7.cpp
+c:\users\arela\downloads\main_tarea7.cpp(46): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\arela\downloads\main_tarea7.cpp(53): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\arela\downloads\main_tarea7.cpp(72): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\arela\downloads\main_tarea7.cpp(73): error C2143: syntax error: missing ';' before ']'
+c:\users\arela\downloads\main_tarea7.cpp(73): error C2143: syntax error: missing ';' before '{'
+c:\users\arela\downloads\main_tarea7.cpp(73): error C2447: '{': missing function header (old-style formal list?)
+c:\users\arela\downloads\main_tarea7.cpp(87): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\arela\downloads\main_tarea7.cpp(92): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\arela\downloads\main_tarea7.cpp(217): error C2664: 'void glMaterialfv(GLenum,GLenum,const GLfloat *)': cannot convert argument 3 from 'GLfloat' to 'const GLfloat *'
+c:\users\arela\downloads\main_tarea7.cpp(248): error C2065: 'AmbientalLuna3': undeclared identifier
+c:\users\arela\downloads\main_tarea7.cpp(249): error C2065: 'DiffuseLuna3': undeclared identifier
+c:\users\arela\downloads\main_tarea7.cpp(250): error C2065: 'SpecularLuna3': undeclared identifier
+c:\users\arela\downloads\main_tarea7.cpp(251): error C2065: 'ShininessLuna3': undeclared identifier
+c:\users\arela\downloads\main_tarea7.cpp(283): error C2059: syntax error: ';'
